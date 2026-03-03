@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "976337506669",
+    "project_id": "florapp-19739",
+    "storage_bucket": "florapp-19739.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976337506669:android:df0eebda355bba99ef4a64",
+        "android_client_info": {
+          "package_name": "com.example.florapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976337506669-siqhn0i988mf8lojjvv4qg2mg42o1h93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.florapp",
+            "certificate_hash": "32d5ad6e39e2c5b3396d6004c302ae6a0d7deba5"
+          }
+        },
+        {
+          "client_id": "976337506669-25bfr4hvf0b6v40kao9ih79om94s4dhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQROT1DbRiRqoousaXbn5LmhPz5GrYac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976337506669-25bfr4hvf0b6v40kao9ih79om94s4dhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

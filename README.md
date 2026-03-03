@@ -1,2 +1,16 @@
-# FlorApp
-🌸 FlorApp - Flutter E-commerce Proyecto Académico - Universidad César Vallejo (UCV)  Aplicación móvil multiplataforma desarrollada para una empresa de flores con un catálogo diversificado (incluye electrodomésticos y más). El enfoque principal fue aplicar buenas prácticas de arquitectura y manejo de estado reactivo. 🚀 Stack Tecnológico (Actualizado) Frontend: Flutter 💙  Gestión de Estado: setState ⚡  Backend: Firebase Auth & Database 🔥  Arquitectura: Estructura modular para escalabilidad. 🚀 Estado del Proyecto El proyecto cuenta con las funciones core operativas, incluyendo la integración con Firebase y la lógica de negocio testeada. Actualmente se encuentra en una fase de desarrollo del 80%.
+# florapp
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
